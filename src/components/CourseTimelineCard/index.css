@@ -1,0 +1,16 @@
+.ul-con {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+.li {
+  padding: 9px 18px 9px 18px;
+  background-color: #1e293b;
+  margin: 5px;
+  color: #fff;
+  font-family: 'Roboto';
+  border-radius: 5px;
+}
+.li:hover {
+  color: goldenrod;
+}

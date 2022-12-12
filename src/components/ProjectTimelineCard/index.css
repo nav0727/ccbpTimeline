@@ -1,0 +1,39 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
+.image {
+  height: 180px;
+  max-width: 350px;
+}
+.btn {
+  background-color: #0967d2;
+  font-family: 'Bree Serif';
+  width: 80px;
+  border-radius: 6px;
+  text-align: center;
+  padding: 5px;
+  color: #fff;
+  border: none;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+.row1 {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #171f46;
+}
+p {
+  font-size: 14px;
+
+  color: #1e293b;
+}
